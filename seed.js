@@ -1,6 +1,5 @@
-require('dotenv').config()
 
-const Blog = [
+const blog = [
   {
       id: 1,
       title: 'First Blog Post',
@@ -18,4 +17,4 @@ const Blog = [
   }
 ];
 
-module.exports = Blog
+module.exports = blog
